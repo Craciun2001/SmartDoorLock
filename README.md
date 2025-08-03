@@ -4,6 +4,6 @@ The repository includes both:
 
 Source code for the project
 
-Comprehensive documentation, detailing the design, implementation, and functionality of the system
+Comprehensive documentation detailing the design, implementation, and functionality of the system
 
-This project demonstrates the integration of biometric security with smart home technology, showcasing our practical skills in hardware and software development.
+This project demonstrates the integration of biometric security with smart home technology, showcasing our knowledge in hardware and software development.
